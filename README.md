@@ -16,7 +16,7 @@ npm install
 
 ## How to use it
 
-```npm run cypress:e2e:open``` - start e2e tests in cypress interactive runner
-```npm run cypress:e2e:run``` - run e2e tests in headless mode
-```cypress:api-tests:open``` - start api tests in cypress interactive runner
-```cypress:api-tests:run``` - run api tests in headless mode
+* ```npm run cypress:e2e:open``` - start e2e tests in cypress interactive runner
+* ```npm run cypress:e2e:run``` - run e2e tests in headless mode
+* ```cypress:api-tests:open``` - start api tests in cypress interactive runner
+* ```cypress:api-tests:run``` - run api tests in headless mode
